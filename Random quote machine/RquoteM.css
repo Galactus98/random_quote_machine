@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico|Merriweather');
+
+body{
+	background-image:url(https://images2.alphacoders.com/718/718914.jpg);
+}
+h2{
+	max-width: 600px;
+	font-size: 50px;
+	font-family: 'Pacifico',cursive;
+    font-weight: 500;
+    padding: 0px;
+    background-image: linear-gradient(
+    90deg,
+    #47341B 0%,
+    #E90628 15%,
+    #ef4e7b 30%,
+    #0C2FDD 44%,
+    #A349A6 58%,
+    #1098ad 72%,
+    #433E38 86%,
+    #ff0000 100%
+
+  );
+
+  background-size: cover;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+  line-height: 1.2;
+}
+
+#btn{
+	font-size: 40px;
+	font-family: sans-serif;
+	border-radius: 30px;
+	position: relative;
+	top: -60px;
+	color: black;
+	box-shadow: -1px 1px;
+}
+.comma{
+  font-weight: bold;
+  font-size: 130px;
+  font-family: "Merriweather", serif;
+  color: brown;
+  opacity: 0.5;
+
+}
+.header{
+	font-size: 25px;
+	font-family: "Merriweather", serif;
+
+}
+.footer{
+	font-size:30px;
+	font-family: "Merriweather", serif;
+
+}
+#left{
+	position: relative;
+    left:30%;
+    top: 50px;
+}
+#right{
+	position: relative;
+    left:66%;
+}
+#name{
+    background-image: linear-gradient(
+    90deg,
+    #47341B 0%,
+    #E90628 15%,
+    #C1583B 30%,
+    #370628 44%,
+    #A349A6 58%,
+    #1098ad 72%,
+    #433E38 86%,
+    #ff0000 100%
+
+  );
+
+  background-size: cover;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+
+}
